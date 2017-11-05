@@ -8,4 +8,6 @@
  
  1. DFS
  2. BFS
- 3. Simulated annealing
+ 3. Simulated annealing 
+ 
+ Reading input from file could have been much simpler, but was running out of time, so couldn't spend much time on it. Please , bare with me . 
